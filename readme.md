@@ -1,6 +1,6 @@
 ## 二开版
 源码联系：Captaindata01
-
+赞赏后可获得源码
 ### 新增：
 
  + 1.电脑监控
@@ -9,27 +9,24 @@
  + 4.200以内唤醒赞赏码 支持长按扫码支付
  + 5.200以上唤醒微信个人收款码，支付宝照旧
 
- + 测试地址：https://sourl.cn/smz9uk
+ + 源码地址：https://sourl.cn/smz9uk
  + 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/333568d7-aede-4e77-b4b8-38f4fe9bfb57">
 
 
 
 在线演示
-测试地址：https://sourl.cn/smz9uk
-
-测试地址： https://sourl.cn/fYFfGR   
-测试地址：https://sourl.cn/eFh635
+源码地址：https://sourl.cn/smz9uk
+ 
+进群付费调用测试：https://sourl.cn/eFh635
 
 加入开发者交流群
 ---
 
 请联系微信：captaindata01 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
-点链接进群：测试地址： https://sourl.cn/fYFfGR   
+源码地址：https://sourl.cn/eFh635 
 <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fe62105c-3aab-4984-892e-da865175d9d7">
-
-
 
 
 赞赏
