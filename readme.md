@@ -1,4 +1,5 @@
 ## 二开版
+源码联系：Captaindata01
 
 ### 新增：
 
@@ -9,8 +10,35 @@
  + 5.200以上唤醒微信个人收款码，支付宝照旧
 
  + 测试地址：https://sourl.cn/smz9uk
+ + 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/333568d7-aede-4e77-b4b8-38f4fe9bfb57">
 
-![image](https://github.com/user-attachments/assets/333568d7-aede-4e77-b4b8-38f4fe9bfb57)
+
+
+在线演示
+测试地址：https://sourl.cn/smz9uk
+
+测试地址： https://sourl.cn/fYFfGR   
+测试地址：https://sourl.cn/eFh635
+
+加入开发者交流群
+---
+
+请联系微信：captaindata01 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
+点链接进群：测试地址： https://sourl.cn/fYFfGR   
+<br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fe62105c-3aab-4984-892e-da865175d9d7">
+
+
+
+
+赞赏
+---
+
+如果你喜欢我的作品，请给予一些支持！<br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2f790275-25b9-4c5c-86ec-3339cd1bf7d2">
+
+
 
 
 
