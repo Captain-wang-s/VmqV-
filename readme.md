@@ -1,6 +1,8 @@
 ## 二开版
 源码联系：Captaindata01
-赞赏后可获得源码
+赞赏
+---
+本通道使用赞赏码可用于测试稳定性：https://sourl.cn/NXXiY4
 ### 新增：
 
  + 1.电脑监控
@@ -268,6 +270,6 @@ V免签为完全开源项目，开源项目意味着作者没有任何收入来�
 V免签遵循 MIT License 开源协议发布，并提供免费使用，请勿用于非法用途。
 
 
-版权所有Copyright © 2019 by vone (http://szvone.cn)
+版权所有Copyright © 2019 by vone 
 
 All rights reserved。
